@@ -1,0 +1,3 @@
+http://localhost:3020
+root * ./public
+file_server
