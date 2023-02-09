@@ -3,7 +3,7 @@ title: aaa
 ---
 <h1 align=center>这是个测试文档</h>
 
----
+<!--more-->
 ```
 	printf(a)
 	{
